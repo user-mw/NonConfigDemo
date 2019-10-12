@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NonConfiguration demo</string>
+    <string name="default_loading_text">Loading&#8230;</string>
+    <string name="default_title">Car must be here</string>
+    <string name="download_text">Load</string>
+    <string name="enter_id_text">Enter id</string>
+    <string name="loading_error_text">Could not load a car</string>
+</resources>
